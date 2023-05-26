@@ -1,3 +1,18 @@
-# web-cronometro
+<h1 align="center">Cronômetro Digital</h1>
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-jzcoc3)
+<div align="center" id="top">
+  <img src="./img/cronometro-design.png" alt="Cronômetro"/>
+
+</div>
+
+## 📁 Sobre o Projeto
+
+Projto onde criei um cronômetro digital usando HTML, CSS e JavaScript.
+
+##
+
+## 🚀 Tecnologias Utilizadas
+
+- HTML
+- CSS
+- JavaScript
